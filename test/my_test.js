@@ -1,7 +1,11 @@
+const chai = require('chai')
+
+const should = chai.should()
+
 describe('GET /', function () {
     it('should do a basic test', function () {
 
-        expect(2+2).to.be.equal(4)
+        (2+2).should.be.equal(4)
 
     });
 });
