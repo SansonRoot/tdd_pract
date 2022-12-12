@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/SansonRoot/tdd_pract#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nyc": "^15.0.0"
   },
   "devDependencies": {
